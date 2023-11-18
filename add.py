@@ -1,3 +1,5 @@
-a = 12
-b = 34
-print (a + b)
+45564
+
+a = input("Enter your value: ")
+b = input("Enter your value: ")
+print ('Total =' ,a + b)
